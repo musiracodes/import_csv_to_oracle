@@ -1,7 +1,7 @@
 # import_csv_to_oracle
 Import .csv files into an oracle table while working on an 'external library restricted' server from your local machine.
 
-As a beginner I had a hard time figuring out this stuff by myself, especially getting rid of the errors that were present, so I thought I share how I did it. I could have used libraries like pandas but external libraries were not allowed to be installed in the server.
+As a beginner I had a hard time figuring out this stuff by myself, especially getting rid of the errors that were present, so I thought I share how I did it. I could have used libraries like pandas but external libraries were not allowed to be installed in the server, and my local machine did not have oracle installed.
 
 Requirements
 1. PuTTY
